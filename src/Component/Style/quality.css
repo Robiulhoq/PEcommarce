@@ -1,0 +1,18 @@
+.quality_title{
+    margin: 2rem 0rem 2rem 0rem;
+    text-align: center;
+}
+.quality{
+    background: black;
+    color: white;
+    padding: 25px;
+    margin: 0.5rem;
+    border-radius: 6px;
+}
+.quality> svg, h5, p{
+    text-align: center;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}

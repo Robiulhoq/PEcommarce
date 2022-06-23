@@ -1,0 +1,36 @@
+[{  "id": 1,
+    "img": "./images/p1.png",
+    "name": "Hugo",
+    "price": "76"
+  }, {
+    "id": 8,
+    "img": "./images/p2.png",
+    "name": "Marijn",
+    "price": " 76"
+  }, {
+    "id": 7,
+    "img": "./images/p1.png",
+    "name": "Alis",
+    "price": "48"
+  }, {
+    "id": 2,
+    "img": "./images/p1.png",
+    "name": "Ansell",
+    "price": "92"
+  }, {
+    "id": 3,
+    "img": "./images/p1.png",
+    "name": "Tarrance",
+    "price": "26"
+  }, {
+    "id": 5,
+    "img": "./images/p1.png",
+    "name": "Jeanelle",
+    "price": "83"
+  },
+  {
+    "id": 10,
+    "img": "./images/p1.png",
+    "name": "Jeanelle",
+    "price": "83"
+  }]
