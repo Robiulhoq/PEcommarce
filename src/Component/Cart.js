@@ -42,7 +42,7 @@ const Cart = () => {
                                 </tr>
                             </thead>
                             { cart.length?
-                              cart.map((item, index) => <CartItem key={index} remove={()=>hendleRemove(item.id)} addedItem={item} />):
+                              cart.map((item, index) => <CartItem key={index} remove={hendleRemove} addedItem={item} />):
                               <tr>
                                 <td><h3>Cart item emapity</h3></td>
                               </tr>
